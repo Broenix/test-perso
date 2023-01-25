@@ -1,0 +1,2 @@
+class Compositeur < ApplicationRecord
+end
